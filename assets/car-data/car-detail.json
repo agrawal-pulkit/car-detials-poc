@@ -1,0 +1,107 @@
+{
+    {
+        "brand": "Ford",
+        "carName": "Edge",
+        "model": "Ford CD3 platform",
+        "modelType": "SE",
+        "description": "The SE includes cloth seats, single-zone manual air-conditioning, AM/FM stereo with single-disc CD/MP3 player, and 17-inch painted aluminum wheels.The SEL includes unique cloth seats, 6-way power driver's seat, premium AM/FM stereo with 6-disc in-dash CD/MP3 player, leather-wrapped steering wheel with secondary audio controls, and 18-inch painted aluminum wheels. Limited includes leather-trimmed seats, and optionally, 6-way power front passenger fold-flat seat, EasyFold second-row seat back release, dual-zone electronic automatic temperature control, SYNC in-car connectivity system, and 18-inch premium chrome-clad aluminum wheels. The Limited trim level replaced the SEL Plus in 2008.The Sport trim level debuted at the 2008 Chicago Auto Show, with sales beginning as a 2009 model.[1] The trim level includes leather-trimmed with grey faux suede inserts, reclining 60/40 fold-flat seats with center fold-down armrest, second-row seat back release (marketed as EasyFold), premium AM/FM stereo with 6-disc in-dash CD/MP3 player, SYNC in-car connectivity system larger diameter chrome exhaust tips, 20-inch premium chrome-clad aluminum wheels, all body-colored trim and optional 22-inch wheels.",
+        "summary": "The Ford Edge is a mid size crossover SUV manufactured by Ford Motor Company.The first generation Edge is based on the Ford CD3 platform shared with the first generation Ford Fusion, Mazda CX-9, first and second generation Mazda 6 and Lincoln MKX. The second generation Edge uses Ford's CD4 platform.The Edge is assembled at Ford's Oakville, Ontario, Canada assembly plant.",
+        "pricing": {
+            "price": 29315,
+            "currency": "$"
+        },
+        "keyPoints": {
+            "features": [
+                "Twin-Scroll 2.0L EcoBoost® Engine",
+                "18-inch Sparkle Silver-Painted Aluminum Wheels",
+                "SYNC®",
+                "Intelligent Access with Push-Button"
+            ]
+        },
+        "reviews": [
+            "best car ",
+            "superbbb"
+        ],
+        "imageUrls": [
+            "http://localhost:3000/assets/edge1.png",
+            "http://localhost:3000/assets/edge2.png"
+        ]
+    },
+    {
+	"brand": "Ford",
+	"carName" : "Escape",
+	"model": "2.5L iVCT I-4",
+	"modelType": "SE",
+	"description": "The SE includes cloth seats, single-zone manual air-conditioning, AM/FM stereo with single-disc CD/MP3 player, and 17-inch painted aluminum wheels.The SEL includes unique cloth seats, 6-way power driver's seat, premium AM/FM stereo with 6-disc in-dash CD/MP3 player, leather-wrapped steering wheel with secondary audio controls, and 18-inch painted aluminum wheels. Limited includes leather-trimmed seats, and optionally, 6-way power front passenger fold-flat seat, EasyFold second-row seat back release, dual-zone electronic automatic temperature control, SYNC in-car connectivity system, and 18-inch premium chrome-clad aluminum wheels. The Limited trim level replaced the SEL Plus in 2008.The Sport trim level debuted at the 2008 Chicago Auto Show, with sales beginning as a 2009 model.[1] The trim level includes leather-trimmed with grey faux suede inserts, reclining 60/40 fold-flat seats with center fold-down armrest, second-row seat back release (marketed as EasyFold), premium AM/FM stereo with 6-disc in-dash CD/MP3 player, SYNC in-car connectivity system larger diameter chrome exhaust tips, 20-inch premium chrome-clad aluminum wheels, all body-colored trim and optional 22-inch wheels.", 
+	"summary": "The Ford Edge is a mid size crossover SUV manufactured by Ford Motor Company.The first generation Edge is based on the Ford CD3 platform shared with the first generation Ford Fusion, Mazda CX-9, first and second generation Mazda 6 and Lincoln MKX. The second generation Edge uses Ford's CD4 platform.The Edge is assembled at Ford's Oakville, Ontario, Canada assembly plant.",
+	"pricing": {
+		"price": 23940,
+		"currency": "$"
+	},
+	"keyPoints": {
+		"features" : ["Twin-Scroll 2.0L EcoBoost® Engine",
+					"18-inch Sparkle Silver-Painted Aluminum Wheels",
+					"SYNC®",
+					"Intelligent Access with Push-Button" ]
+	},
+	"reviews": ["best car ", "superbbb"],
+	"imageUrls" : ["http://localhost:3000/assets/escape.png",
+					"http://localhost:3000/assets/escape1.png"]
+},
+    {
+        "brand": "Acura",
+        "carName": "ILX",
+        "model": "2.5L iVCT I-4",
+        "modelType": "SE",
+        "description": "The aluminum block, direct-injected 2.4-liter inline-4 delivers 201 high-revving horsepower, 181 lb-ft of torque (both SAE net) and best-in-class thrills per mile. Unlike turbocharged engines, throttle response is immediately impactful while the engine’s light weight makes handling nimble and fuel efficiency notable.",
+        "summary": "All ILX models are equipped with the sophisticated 8-speed DCT transmission. Originally developed for racing, the dual-clutch design shifts faster, smoother and with greater efficiency than conventional automatic transmissions. Designed in-house, drivers will find it a perfect fit for the inline-four engine. Together the engine and transmission have an EPA Fuel Economy Rating27 of 25 / 35 / 29 MPG (city / highway / combined).",
+        "pricing": {
+            "price": 23940,
+            "currency": "$"
+        },
+        "keyPoints": {
+            "features": [
+                "Twin-Scroll 2.0L EcoBoost® Engine",
+                "18-inch Sparkle Silver-Painted Aluminum Wheels",
+                "SYNC®",
+                "Intelligent Access with Push-Button"
+            ]
+        },
+        "reviews": [
+            "best car ",
+            "superbbb"
+        ],
+        "imageUrls": [
+            "http://localhost:3000/assets/acura-ilx1.jpg",
+            "http://localhost:3000/assets/acura-ilx2.png"
+        ]
+    },
+    {
+        "brand": "Acura",
+        "carName": "MDX",
+        "model": "2.5L iVCT I-4",
+        "modelType": "SE",
+        "description": "The aluminum block, direct-injected 2.4-liter inline-4 delivers 201 high-revving horsepower, 181 lb-ft of torque (both SAE net) and best-in-class thrills per mile. Unlike turbocharged engines, throttle response is immediately impactful while the engine’s light weight makes handling nimble and fuel efficiency notable.",
+        "summary": "All ILX models are equipped with the sophisticated 8-speed DCT transmission. Originally developed for racing, the dual-clutch design shifts faster, smoother and with greater efficiency than conventional automatic transmissions. Designed in-house, drivers will find it a perfect fit for the inline-four engine. Together the engine and transmission have an EPA Fuel Economy Rating27 of 25 / 35 / 29 MPG (city / highway / combined).",
+        "pricing": {
+            "price": 44200
+            "currency": "$"
+        },
+        "keyPoints": {
+            "features": [
+                "Twin-Scroll 2.0L EcoBoost® Engine",
+                "18-inch Sparkle Silver-Painted Aluminum Wheels",
+                "SYNC®",
+                "Intelligent Access with Push-Button"
+            ]
+        },
+        "reviews": [
+            "best car ",
+            "superbbb"
+        ],
+        "imageUrls": [
+            "http://localhost:3000/assets/acura-mdx.jpeg",
+            "http://localhost:3000/assets/acura-mdx.jpg"
+        ]
+    }
+}

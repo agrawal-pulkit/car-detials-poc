@@ -4,6 +4,7 @@ import * as bodyParser from "body-parser";
 import * as cookieParser from "cookie-parser";
 import CONFIG = require("./../config/config");
 import * as expressSession from "express-session";
+import * as path from 'path';
 
 //db-connection
 import * as mongoose from "mongoose";
@@ -12,6 +13,8 @@ let connection: mongoose.Connection;
 let isMongoConnectionSuccess : boolean = false;
 
 //initialize dependencies
+
+const cors = require('cors');
 
 //util 
 import { LogConfig } from "../util/log4js-config";
@@ -32,11 +35,11 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(cookieParser());
-
+app.use(cors());
 // app.set('view engine', 'ejs');
 
-
-//logger configuration
+app.use('/assets', express.static(('assets')));
+//logger configuration`
 const log = new LogConfig().getLogger("App");
 
 let carRouter : CarRouterInterface;
