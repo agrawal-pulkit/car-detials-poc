@@ -31,4 +31,4 @@ export const CarSchema : mongoose.Schema = new mongoose.Schema({
     keyPoints : {},
     reviews : {}
 
-}, { collection : 'cars', strict : false});
+}, { collection : 'carsCollection', strict : false});

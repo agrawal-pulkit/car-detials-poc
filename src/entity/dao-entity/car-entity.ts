@@ -36,7 +36,7 @@ export class Car {
             },
             keyPoints: carObject.keyPoints ? carObject.keyPoints : {},
             imageUrls: carObject.imageUrls ? carObject.imageUrls  : [],
-            reviews: carObject.reviews ? carObject.imageUrls : []
+            reviews: carObject.reviews ? carObject.reviews : []
         };
         return car;
     }
